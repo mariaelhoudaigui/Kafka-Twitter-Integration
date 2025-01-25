@@ -24,7 +24,7 @@ A Kafka consumer then reads the messages from the topic and stores them in a **M
 
    - **Download Kafka**: Go to the [official Kafka website](https://kafka.apache.org/downloads) and download the appropriate version.
    - **Extract Kafka**: Unzip the downloaded file and move it to your desired directory.
-   - **Install Java**: Kafka requires Java to run. If Java is not installed, download and install it from [Oracle's website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or [OpenJDK](https://openjdk.java.net/).
+   - **Install Java**: Kafka requires Java to run. If Java is not installed, download and install it from [Oracle's website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
 ### 2.   **Start Zookeeper and Kafka:**
    Kafka requires **Zookeeper** for coordination. You need to start Zookeeper and then Kafka:
