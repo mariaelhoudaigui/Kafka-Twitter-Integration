@@ -29,4 +29,8 @@ A Kafka consumer then reads the messages from the topic and stores them in a **M
 ### 3. **Install MySQL**:
    - Install MySQL and create a database (`kafka-project`) with a table for storing tweets.
 
-  
+## Requirements:
+Install the following Python libraries to run the application:
+```
+pip install confluent_kafka mysql-connector-python tweepy
+```
